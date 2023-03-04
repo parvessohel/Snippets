@@ -1,14 +1,11 @@
 # Express Js Initialization
 
 ## npm initialization
-```command```
-npm init -y
+```npm init -y```
 
 
 ## install express
-```command```
-npm i express
+```npm i express```
 
 ## Install Nodemon
-```command```
-npm i -D nodemon
+```npm i -D nodemon```
